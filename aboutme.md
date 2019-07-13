@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The more you know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Trenton. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love space
+- I still love space
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Just getting started. I'll let you know when more shows up!
