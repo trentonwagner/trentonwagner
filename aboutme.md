@@ -11,6 +11,6 @@ My name is Trenton. I have the following qualities:
 
 What else do you need?
 
-### my history
+### My History
 
 Just getting started. I'll let you know when more shows up!
