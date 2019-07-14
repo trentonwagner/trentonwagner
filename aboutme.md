@@ -19,12 +19,12 @@ My name is Trenton. I love space!
 
 ### Volunteerism
 
-**Officer** - Science Experiment Club, Washburn Rural High School - _February 2017 - PRESENT_
+**Officer** - Science Experiment Club - _February 2017 - PRESENT_
 * Design science experiments.
 * Oversee and perform experiments.
 * Organize meetings.
 
-**Student Aide** - Attendance Office, Washburn Rural High School - _August 2018 - December 2018_
+**Student Aide** - Attendance Office - _August 2018 - December 2018_
 * Answer and Route calls.
 * Filing.
 
