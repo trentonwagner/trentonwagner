@@ -8,7 +8,7 @@ subtitle: California
 
 > The educational experience of a lifetime! Visit the California Science Center and view the space shuttle Endeavour, Edwards Air Force Base, the Jet Propulsion Laboratory (JPL), Armstrong Flight Research Center and the Griffith Observatory.
 
-![Space 501 Mission](https://cosmo.org/assets/uploads/media/_gallery_constrained/501_1.jpg "Space 501 Mission")
+![Space 501 Mission](https://cosmo.org/assets/uploads/media/_gallery_constrained/501_8.jpg "Space 501 Mission")
 
 ## My Take
 
