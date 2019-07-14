@@ -12,7 +12,7 @@ subtitle: Kansas State University
  * Give you a huge head start in your senior government class
  * Introduce you to some of the smartest, most motivated high school juniors in Kansas
  * Establish lifelong friendships 
-…if you attend the American Legion Boys State of Kansas.
+ …if you attend the American Legion Boys State of Kansas.
 
 ![Boys State](http://kansasboysstate.com/storage/BSK4234_LogoWordmark_lockup_fnl.png "Boys State")
 
