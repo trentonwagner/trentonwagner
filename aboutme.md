@@ -24,7 +24,7 @@ My name is Trenton. I love space!
 * Oversee and perform experiments.
 * Organize meetings.
 
-**Student Aide** - Washburn Rural High School Attendance Office, Washburn Rural High School — _August 2018 - December 2018_
+**Student Aide** - Washburn Rural High School Attendance Office, Washburn Rural High School - _August 2018 - December 2018_
 * Answer and Route calls.
 * Filing.
 
