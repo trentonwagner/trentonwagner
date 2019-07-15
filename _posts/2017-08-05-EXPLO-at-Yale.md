@@ -14,6 +14,6 @@ subtitle: Yale University
 
 ## My Take
 
-This camp has a much more robotics in space theme. The mission had 1 aspect of us building components underwater while scuba diving. This simulated weighlessness of space. Another part of the mission was working with remote controlling the 'Canadarm', a robotic arm on the outside of the space station. We also launched rockets that we built.
+During this camp, I took some college level courses over the three week camp. The first course I took was Genetic Engineering. This was my favorite subject this year because we got to remove the DNA from our spit. The second course I took was Computer Programming. During this course, I made a little Frogger game with my own knowledge of Computer. The weekend trips were by far the best part of the camp because one weekend I went to a lake water park with ziplines and cliff jumps. The next weekend I went to a forest adventure park.
 
 To learn more about this camp, you can find it on the [**EXPLO Website**](https://www.explo.org/campus-information-yale/).
