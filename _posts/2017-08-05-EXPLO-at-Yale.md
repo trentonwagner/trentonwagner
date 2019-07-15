@@ -14,6 +14,6 @@ subtitle: Yale University
 
 ## My Take
 
-During this camp, I took some college level courses over the three week camp. The first course I took was Genetic Engineering. This was my favorite subject this year because we got to remove the DNA from our spit. The second course I took was Computer Programming. During this course, I made a little Frogger game with my own knowledge of Computer. The weekend trips were by far the best part of the camp because one weekend I went to a lake water park with ziplines and cliff jumps. The next weekend I went to a forest adventure park.
+During this camp, I took some college level courses over the three week camp. The first course I took was Genetic Engineering. This was my favorite subject this year because we got to remove the DNA from our spit. The second course I took was Computer Programming. During this course, I made a little Frogger game with my own knowledge of Baby Java. The weekend trips were by far the best part of the camp because one weekend I went to a lake water park with ziplines and cliff jumps. The next weekend I went to a forest adventure park.
 
 To learn more about this camp, you can find it on the [**EXPLO Website**](https://www.explo.org/campus-information-yale/).
