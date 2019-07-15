@@ -12,6 +12,6 @@ subtitle: Florida
 
 ## My Take
 
-This camp has a much more robotics in space theme. The mission had 1 aspect of us building components underwater while scuba diving. This simulated weighlessness of space. Another part of the mission was working with remote controlling the 'Canadarm', a robotic arm on the outside of the space station. We also launched rockets that we built.
+This was my favorite space camp because we got to predict where a weather balloon would go and then launched it. We did multiple experiments while the balloon was in the stratosphere and our prediction was at the airport and the balloon landed near there. I worked on the parachute so it would land safely. We also toured the Kennedy Space Center and it was amazing! There was a real Saturn V Rocket and its different stages were spread across one giant room.
 
 To learn more about this camp, you can find it on the [**Cosmosphere website**](https://cosmo.org/education/camps/space-401).
