@@ -12,6 +12,6 @@ subtitle: Mission Control Houston
 
 ## My Take
 
-This camp has a much more robotics in space theme. The mission had 1 aspect of us building components underwater while scuba diving. This simulated weighlessness of space. Another part of the mission was working with remote controlling the 'Canadarm', a robotic arm on the outside of the space station. We also launched rockets that we built.
+This camp we went to Houston and saw mission control for the Apollo space missions. Our mission for this camp was much more challenging. We knew ahead of time that there was going to be a disaster during the mission, but we didn't know what it would be. During my mission, we actually had several disasters to overcome and bring the shuttle home safely.
 
 To learn more about this camp, you can find it on the [**Cosmosphere website**](https://cosmo.org/education/camps/space-301).
