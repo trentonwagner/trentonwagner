@@ -1,6 +1,6 @@
 ---
 layout: post
-title: America Leagion Boys State
+title: America Legion Boys State
 subtitle: Kansas State University
 ---
 
