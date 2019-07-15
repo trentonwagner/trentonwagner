@@ -14,6 +14,6 @@ subtitle: Take 2 - A different focus
 
 ## My Take
 
-This camp has a much more robotics in space theme. The mission had 1 aspect of us building components underwater while scuba diving. This simulated weighlessness of space. Another part of the mission was working with remote controlling the 'Canadarm', a robotic arm on the outside of the space station. We also launched rockets that we built.
+This camp I did two other courses. The first course was Engineering. During this course, we made a Rube Goldberg Machine to spell out Explo. While it took the whole last week of camp, most of the parts didn't work. The second course, was Physics. I learned that an object's inertia can make it so that if I put a heavy block of iron ontop of my hand and hit it with a hammer, as hard as I could, it wouldn't hurt. One of the side courses I took was Geocaching. This was a lot of fun because we got to trek through nature. My weekend trips this time were the Beach, which was very cold, and White-Water Rafting, which was amazing because we got soaked and got to eat a bunch of food halfway through.
 
 To learn more about this camp, you can find it on the [**EXPLO Website**](https://www.explo.org/campus-information-yale/).
