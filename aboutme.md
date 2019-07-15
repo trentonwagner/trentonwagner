@@ -19,6 +19,7 @@ EXPLO at Yale summer camps. I am organized and I manage my time well.
 
 ### Awards and Honors
 
+- AP Scholar (Score 3 or higher on 3 or more AP Exams)
 - Blue renaissance card (Requires 3.875+ GPA)
 - Honor Roll: Excellent (Requires 4.0+ weighted)
 - Perfect attendance (multiple years, semesters)
