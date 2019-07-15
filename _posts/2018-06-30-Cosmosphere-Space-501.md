@@ -12,6 +12,6 @@ subtitle: California
 
 ## My Take
 
-This camp I did two other courses. The first course was Engineering. During this course, we made a Rube Goldberg Machine to spell out Explo. While it took the whole last week of camp, most of the parts didn't work. The second course, was Physics. I learned that an object's inertia can make it so that if I put a heavy block of iron ontop of my hand and hit it with a hammer, as hard as I could, it wouldn't hurt. One of the side courses I took was Geocaching. This was a lot of fun because we got to trek through nature. My weekend trips this time were the Beach, which was very cold, and White-Water Rafting, which was amazing because we got soaked and got to eat a bunch of food halfway through.
+During this camp, I went to California. While we were there we got to see the Jet Propulsion Laboratory and the Mission Control for the Opportunity Rover. I got to sit in the chairs of the Mission Control and I got to see what was happening to the rover in real time. I also toured a military base with a two-mile-long runway for space missions that went wrong. Overall, it was a lot of fun.
 
 To learn more about this camp, you can find it on the [**Cosmosphere website**](https://cosmo.org/education/camps/space-501).
