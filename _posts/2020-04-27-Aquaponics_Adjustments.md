@@ -18,7 +18,7 @@ I had done some research about how tall my tomatoes would grow, and Dr. Google s
 
 I decided to buy the sucker fish to eat the algae and fish waste in the waste bucket. In order to have this, I needed the piping to not be an untimely exit for the fish into the media tub. I researched some other waste bucket systems, and found one I liked called a swirl filter, where the water spirals around the bucket and the solid waste falls to the bottom of the bucket. Even though I set up the system like this, the algae eater decided to go for a dirt swim. I caught him in time and put him back in the bucket. Now I was faced with the problem of keeping the sucker fish out of the tube. I remembered I had some pantyhose from when I first set up my waste bucket, so I covered the outflow tube. This seemed fine until I woke up the next morning and found that the pantyhose had some sediment on it, and blocked the waterflow. This blockage caused water to leak all over the floor out of a hole in the side of the bucket. I then decided that the sucker fish could go live with the goldfish and removed the pantyhose. 
 
-<img src="https://trentonwagner.github.io/img/wastebucket.png" alt="wastebucket">
+<img src="https://trentonwagner.github.io/img/wastbucket.png" alt="wastebucket">
 
 ## Up Next
 
