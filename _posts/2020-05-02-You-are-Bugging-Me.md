@@ -22,4 +22,4 @@ The fish all seem do be doing very well and they are all growing pretty fast. Th
 
 ## Up Next
 
-I would like to setup sensors and devices to monitor and notify about the readings. These devices would be IoT devices. Internet of Thing (IoT) devices are connected wirelessly to the internet, allowing me to monitor my system without being there in person either by phone app or browser. When I get these researched and set up, I will put a link to the website for the readings of my system. Stay tuned for more!
+I would like to set up sensors and devices to monitor and notify about the readings. These devices would be IoT devices. Internet of Thing (IoT) devices are connected wirelessly to the internet, allowing me to monitor my system without being there in person either by phone app or browser. When I get these researched and set up, I will put a link to the website for the readings of my system. Stay tuned for more!
