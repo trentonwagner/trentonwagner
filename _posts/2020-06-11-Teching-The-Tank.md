@@ -6,12 +6,18 @@ subtitle: Part 1 - Lights
 
 ## Systems
 
-I needed several different items in order to tech up the tank. I needed a microcomputer that can sit in the garage and send data to another place. After researching for a little bit, I chose a Raspberry Pi 3 Model B+. This raspberry pi is a little like a small computer and can do almost the same thing as any regular computer, though its memory is a little lacking compared to a normal computer. Microcomputers are very handy when you want to have a small project where you need to program something to get it to work. All of my programs are built in Python, which is a computing language that is a lot like normal English. I feel it is the easiest to read and write without knowing a lot of programming beforehand.
+I needed several different items in order to tech up the tank. I needed a microcomputer that can sit in the garage and send data to another place. After researching for a little bit, I chose a Raspberry Pi 3 Model B+ (or a Pi). This raspberry pi is a little like a small computer and can do almost the same thing as any regular computer, though its memory is a little lacking compared to a normal computer. Microcomputers are very handy when you want to have a small project where you need to program something to get it to work. All of my programs are built in Python, which is a computing language that is a lot like normal English. I feel it is the easiest to read and write without knowing a lot of programming beforehand.
 
 
 ## Lights
 
 The lights are a waterproof LED strip with 144 pixels to light up the inside of the fish rain barrel. The pixels are the number of individual LEDs that are on the strip. The strip I got is 1 meter long, although there are some longer options. The leds can be found [here](https://www.amazon.com/CHINLY-Individually-Addressable-Waterproof-waterproof/dp/B01LSF4PYW).
+
+## Wiring
+
+The wiring for this is pretty simple. You take the VCC which is basically the positive end and add power to it (usually an external source) and take the GND which is the ground and attach that to the negative end of the external source. There are still three wires left that are from the lights. One is another VCC, another is another GND, and the last one is a DATA line. You have to take the second GND and connect it to the ground pin on the Pi. The DATA line you have to connect to a GPIO pin or a General Purpose In/Out Pin. I connected it to the GPIO 18 pin. In the picture below, the Red Wires from the light strip are the VCC or positive wires, the White Wires are GND or negative wires, and the Green Wire is the DATA wire. As you can see in the pic, the red vcc wire coming from the group of three isn't connected to anything. That wire would usually be connected to the Pi, but I didn't want the lights to draw power from the Pi because if too much power is drawn from the Pi, the Pi can get damaged and stop working.
+
+<img src="https://trentonwagner.github.io/img/Lights Wiring.JPG" alt="wiring">
 
 ## Code
 
@@ -277,7 +283,6 @@ This section is saying that if I interupt the program, it will clear the LED str
 
 [![Lights](https://img.youtube.com/vi/SP2D5_ki-nE/0.jpg)](https://www.youtube.com/watch?v=SP2D5_ki-nE)
 <img src="https://trentonwagner.github.io/img/Light End.JPG" alt="end">
-<img src="https://trentonwagner.github.io/img/Lights Wiring.JPG" alt="wiring">
 
 ## Just Keep Swimming
 
