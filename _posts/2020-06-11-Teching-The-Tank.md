@@ -275,7 +275,7 @@ This section is saying that if I interupt the program, it will clear the LED str
 
 ## Click or Tap First Pic to Watch Video
 
-[![Fish](https://img.youtube.com/vi/SP2D5_ki-nE/0.jpg)](https://www.youtube.com/watch?v=SP2D5_ki-nE)
+[![Fish](https://img.youtube.com/vi/SP2D5_ki-nE/0.jpg){:target="_blank" rel="noopener"}](https://www.youtube.com/watch?v=SP2D5_ki-nE)
 <img src="https://trentonwagner.github.io/img/Light End.JPG" alt="end">
 <img src="https://trentonwagner.github.io/img/Lights Wiring.JPG" alt="wiring">
 
