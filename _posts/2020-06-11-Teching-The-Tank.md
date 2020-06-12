@@ -273,7 +273,7 @@ This whole section is telling the LEDs what to do, the big repeating section tha
 ```
 This section is saying that if I interupt the program, it will clear the LED strip and turn off the lights. This is just a handy-dandy thing so I don't have to run another program to clear the strip.
 
-<img src="https://trentonwagner.github.io/img/Fosh Light.mp4" alt="Fish">
+<img src="https://trentonwagner.github.io/img/Fosh Light(1).mp4" alt="Fish">
 <img src="https://trentonwagner.github.io/img/Light End.JPG" alt="end">
 <img src="https://trentonwagner.github.io/img/Lights Wiring.JPG" alt="wiring">
 
