@@ -290,4 +290,4 @@ I have had one goldfish die, it was one of the newer ones. Tank is still swimmin
 
 ## Up Next
 
-The next post will be about the thermometer probe thta I installed into my aquaponics system.
+The next post will be about the thermometer probe that I installed into my aquaponics system.
