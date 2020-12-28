@@ -26,10 +26,19 @@ EXPLO at Yale summer camps. I am organized and I manage my time well.
 
 ### Volunteerism
 
-**Officer** - Science Experiment Club - _February 2017 - PRESENT_
+**President** - Aquaponics Systems Student Organization - _August 2020 - Present_
+* Founded Organization
+* Organizes meetings and Orders of the Day
+* Advertized Organization
+
+**Officer** - Science Experiment Club - _February 2017 - September 2019_
 * Design science experiments.
 * Oversee and perform experiments.
 * Organize meetings.
+
+**Idea Spreader** - Environmental Club - _September 2019 - May 2020_
+* Sustainable farming via aquaponics systems
+* Improving current aquaponics systems
 
 **Student Aide** - Attendance Office - _August 2018 - December 2018_
 * Answer and Route calls.
