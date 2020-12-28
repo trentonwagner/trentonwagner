@@ -34,4 +34,4 @@ There are several new friends to the aquaponics system, some intentionally put t
 
 ## Up Next
 
-The next post will probably be the new fish feeder post or another update on the system if I don't finish the feeder before I update next.
+The next post will probably be the new fish feeder post, the website post, or another update on the system if I don't finish the feeder before I update next.
