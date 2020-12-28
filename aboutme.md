@@ -7,7 +7,7 @@ subtitle: The more you know
 My name is Trenton. I love space!
 
 I am a science enthusiast and leader with public speaking skills and a humor streak.
-I've had the opportunity to enjoy five years of space summer camp experiences as well as three years of Debate and
+I've had the opportunity to enjoy five years of space summer camp experiences as well as four years of Debate and
 Forensics experience during school. Additionally, I've had two great years of advanced leadership and science courses at
 EXPLO at Yale summer camps. I am organized and I manage my time well.
 
